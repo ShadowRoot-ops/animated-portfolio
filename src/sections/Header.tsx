@@ -5,12 +5,8 @@ import { motion, useAnimate } from "motion/react";
 /* eslint-disable-next-line @typescript-eslint/no-unused-vars */
 const navItems = [
   {
-    label: "#",
-    href: "Home",
-  },
-  {
     label: "About",
-    href: "#about",
+    href: "#intro",
   },
   {
     label: "Selected Works",
